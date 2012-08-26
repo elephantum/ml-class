@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/elephantum/Projects/Coursera/ml-class"
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "octave",
+			"cmd": ["/usr/local/bin/octave", "$file"]
+		}
+	]
+}
