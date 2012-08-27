@@ -1,2 +1,6 @@
 .DS_*
 ml_login_data.mat
+
+*.pdf
+
+*.sublime-workspace
